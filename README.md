@@ -1,6 +1,4 @@
-# K-Means-Clustering
-**K Nearest Neighbors Project**
-Welcome to the KNN Project!. 
+# K-Means-Clustering 
 
 first you should spend time to learn the concept of KNN with the folder **K Means clustering with python**
 
